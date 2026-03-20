@@ -1,9 +1,9 @@
-participant_id	species	sex
-sub-1223010848	http://purl.obolibrary.org/obo/NCBITaxon_9545	M
-sub-1244263408	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
-sub-1256313642	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
-sub-1257702203	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
-sub-1271976045	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
-sub-1273579455	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
-sub-1278167980	http://purl.obolibrary.org/obo/NCBITaxon_9545	M
-sub-1285385365	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
+participant_id	original_participant_id	species	sex
+sub-1223010848	sub-1223010848	http://purl.obolibrary.org/obo/NCBITaxon_9545	M
+sub-1244263408	sub-1244263408	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
+sub-1256313642	sub-1256313642	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
+sub-1257702203	sub-1257702203	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
+sub-1271976045	sub-1271976045	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
+sub-1273579455	sub-1273579455	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
+sub-1278167980	sub-1278167980	http://purl.obolibrary.org/obo/NCBITaxon_9545	M
+sub-1285385365	sub-1285385365	http://purl.obolibrary.org/obo/NCBITaxon_9545	F
